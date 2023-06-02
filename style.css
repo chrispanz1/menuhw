@@ -1,0 +1,57 @@
+.parentContainer {
+    height: 600px;
+    width: 500px;
+    border: 5px solid black;
+    background-color: pink;
+    margin-left: 400px;
+}
+
+.pic {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;
+    border: 5px solid black;
+    margin-right: 600px;
+    margin-top: 250px;
+    margin-left: 200px;
+}
+
+.titleBar {
+    height: 100px;
+    width: 500px;
+    border: 1px solid red;
+    background-color: azure;
+
+}
+
+.title {
+    text-align: center;
+    font-family: arial;
+}
+
+.brektitle {
+    font-family: romano;
+    font-style: italic;
+
+}
+
+.lunchdinnerTitle {
+    font-family: romano;
+    font-style: italic;
+}
+
+.appetizer {
+    height: 200px;
+    width: 150px;
+    border: 5px solid black;
+    background-color: pink;
+    padding-top: 175px;
+}
+
+.brekDiv {
+    height: 200px;
+    width: 150px;
+    border: 5px solid black;
+    background-color: pink;
+
+}
